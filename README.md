@@ -1,5 +1,3 @@
-Certainly! Below is a `README.md` template for your sales prediction project on GitHub. You can customize it further as needed.
-
 ```markdown
 # Sales Prediction Project
 
